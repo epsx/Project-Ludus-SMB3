@@ -1,3 +1,5 @@
+Project Ludus SMB3 was developed with LLM (A.I.) assistance.
+----
 Launcher in progress
 ![launcher-in-prog.png](launcher-in-prog.png)
 ---
